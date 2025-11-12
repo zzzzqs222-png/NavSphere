@@ -959,14 +959,6 @@
               "description": "Beautify JavaScript, JSON, React.js, HTML, CSS, SCSS, and SASS",
               "icon": "/assets/images/logos/beautifier.png",
               "enabled": true
-            },
-            {
-              "id": "1735256523960",
-              "title": "ScreenShots.pro",
-              "href": "https://screenshots.pro/",
-              "description": "App Screenshot Generator for App Store&Google Play,Create panoramic screenshots for iOS and Android apps. No account needed.",
-              "icon": "/assets/img_1735258064656.png",
-              "enabled": true
             }
           ],
           "enabled": true
