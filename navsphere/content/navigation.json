@@ -1199,10 +1199,10 @@
             },
             {
               "id": "1760512493923",
-              "title": "VuePress",
-              "href": "https://vuepress.vuejs.org/",
+              "title": "首页 | VuePress",
+              "href": "https://vuepress.vuejs.org/zh/",
               "description": "Vue 驱动的静态网站生成器",
-              "icon": "/assets/favicon_1760512644195.png",
+              "icon": "/assets/favicon_1762934230293.png",
               "enabled": true
             }
           ]
