@@ -951,14 +951,6 @@
               "description": "易于使用的在线 Excel 电子表格 转 JSON 标准格式 转换器。使用我们直观的转换工具轻松转换表格数据。快速、可靠且用户友好。",
               "icon": "/assets/favicon_1762933905078.png",
               "enabled": true
-            },
-            {
-              "id": "3_3",
-              "title": "Beautifier",
-              "href": "https://beautifier.io/",
-              "description": "Beautify JavaScript, JSON, React.js, HTML, CSS, SCSS, and SASS",
-              "icon": "/assets/images/logos/beautifier.png",
-              "enabled": true
             }
           ],
           "enabled": true
