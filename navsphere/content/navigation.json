@@ -26,7 +26,7 @@
           "title": "Google",
           "href": "https://www.google.com",
           "description": "访问 www.google.com",
-          "icon": "/assets/favicon_1762936583167.png",
+          "icon": "/assets/images/logos/google.png",
           "enabled": true
         }
       ],
