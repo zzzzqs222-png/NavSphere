@@ -96,16 +96,7 @@
       "icon": "Coffee",
       "description": "",
       "enabled": false,
-      "items": [
-        {
-          "id": "1761725058490",
-          "title": "Reddit",
-          "href": "https://www.reddit.com/",
-          "description": "Reddit 拥有超过 100,000 个 subreddit 社区，数百万用户在此聚集，讨论各自关心的话题。",
-          "icon": "/assets/favicon_1761725100238.png",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": []
     },
     {
