@@ -95,7 +95,7 @@
       "title": "媒体资讯",
       "icon": "Coffee",
       "description": "",
-      "enabled": false,
+      "enabled": true,
       "items": [],
       "subCategories": []
     },
