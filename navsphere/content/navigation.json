@@ -1191,10 +1191,10 @@
           "items": [
             {
               "id": "1760512389014",
-              "title": "Docusaurus",
-              "href": "https://docusaurus.io/",
-              "description": "Build optimized websites quickly, focus on your content.",
-              "icon": "/assets/favicon_1760512394163.png",
+              "title": "快速构建以内容为核心的最佳网站",
+              "href": "https://docusaurus.io/zh-CN/",
+              "description": "快速构建以内容为核心的最佳网站",
+              "icon": "/assets/favicon_1762934280728.png",
               "enabled": true
             },
             {
