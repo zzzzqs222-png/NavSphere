@@ -753,6 +753,14 @@
               "description": "聚合阿里云盘、夸克、百度网盘、115、迅雷等平台，实时检索各类分享链接与资源，免费、快速、无广告。",
               "icon": "/assets/favicon_1763001965120.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1763002022564_7wdujbtnb",
+              "title": "PanSou 盘搜",
+              "href": "https://so.252035.xyz/",
+              "description": "",
+              "icon": "/assets/favicon_1763002013156.ico",
+              "enabled": true
             }
           ],
           "enabled": true
